@@ -19,8 +19,6 @@ The chatbot cleans and tokenizes the text, converts questions into TF-IDF vector
 
 ## How to run
 
-1. Install Python.
-2. Download and extract the project.
 3. On Windows, double-click START_WINDOWS.bat.
 4. Type a question and click Send.
 
